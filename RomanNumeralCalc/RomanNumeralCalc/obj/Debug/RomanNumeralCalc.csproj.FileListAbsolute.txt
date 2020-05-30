@@ -1,0 +1,9 @@
+F:\CIS 144\Projects\Project 1\RomanNumeralCalc\RomanNumeralCalc\bin\Debug\RomanNumeralCalc.exe.config
+F:\CIS 144\Projects\Project 1\RomanNumeralCalc\RomanNumeralCalc\bin\Debug\RomanNumeralCalc.exe
+F:\CIS 144\Projects\Project 1\RomanNumeralCalc\RomanNumeralCalc\bin\Debug\RomanNumeralCalc.pdb
+F:\CIS 144\Projects\Project 1\RomanNumeralCalc\RomanNumeralCalc\obj\Debug\RomanNumeralCalc.csprojAssemblyReference.cache
+F:\CIS 144\Projects\Project 1\RomanNumeralCalc\RomanNumeralCalc\obj\Debug\RomanNumeralCalc.frmMain.resources
+F:\CIS 144\Projects\Project 1\RomanNumeralCalc\RomanNumeralCalc\obj\Debug\RomanNumeralCalc.Properties.Resources.resources
+F:\CIS 144\Projects\Project 1\RomanNumeralCalc\RomanNumeralCalc\obj\Debug\RomanNumeralCalc.csproj.GenerateResource.cache
+F:\CIS 144\Projects\Project 1\RomanNumeralCalc\RomanNumeralCalc\obj\Debug\RomanNumeralCalc.exe
+F:\CIS 144\Projects\Project 1\RomanNumeralCalc\RomanNumeralCalc\obj\Debug\RomanNumeralCalc.pdb
